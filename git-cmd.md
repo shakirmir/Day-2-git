@@ -6,13 +6,15 @@ echo "# Day-2-git" >> README.md
 - git branch -M main
 - git remote add origin https://github.com/shakirmir/Day-2-git.git
 - git push -u origin main
-====================================================
+
+###
 …or push an existing repository from the command line
+
 - git remote add origin https://github.com/shakirmir/Day-2-git.git
 - git branch -M main [rename] [ in github main branch created but in local we get master by default]
 - git push -u origin main
 
-====================================================
+###
 - git add * or git add .
 
 git setup
