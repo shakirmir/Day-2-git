@@ -25,7 +25,7 @@
     - git status
     - git add .
     - git commit -m "first commit"
-    - git branch -M main
+    - git branch -M main [rename branch name]
     - git remote add origin https://github.com/shakirmir/Day-2-git.git
     - git push -u origin main
 
