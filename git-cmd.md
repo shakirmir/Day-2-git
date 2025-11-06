@@ -20,5 +20,15 @@
     - git config --global user.name shakirmir@gmail.com
     - git config --global name shakir
     - git config --list [ show the config name and config username]
+### common git commands when pushing an existing repository from the command line
+    - git init
+    - git status
+    - git add .
+    - git commit -m "first commit"
+    - git branch -M main
+    - git remote add origin https://github.com/shakirmir/Day-2-git.git
+    - git push -u origin main
+
+
 
 
