@@ -16,9 +16,9 @@
 ###
 - git add * or git add .
 
-git setup
-- git config --global user.name "shakirmir@gmail.com"
-- git config --global name shakir
-- git config --list [ show the config name and config username]
+### git setup for the first time on local machine /laptop
+    - git config --global user.name shakirmir@gmail.com
+    - git config --global name shakir
+    - git config --list [ show the config name and config username]
 
 
