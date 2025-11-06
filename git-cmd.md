@@ -1,5 +1,5 @@
-…or create a new repository on the command line
-echo "# Day-2-git" >> README.md
+### create a new repository on the command line
+- echo "# Day-2-git" >> README.md
 - git init
 - git add README.md
 - git commit -m "first commit"
@@ -7,8 +7,7 @@ echo "# Day-2-git" >> README.md
 - git remote add origin https://github.com/shakirmir/Day-2-git.git
 - git push -u origin main
 
-###
-…or push an existing repository from the command line
+### push an existing repository from the command line
 
 - git remote add origin https://github.com/shakirmir/Day-2-git.git
 - git branch -M main [rename] [ in github main branch created but in local we get master by default]
